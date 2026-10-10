@@ -5,8 +5,8 @@ export const profile = {
   name: "Amit Rawat",
   role: "Backend-Focused Full Stack Engineer",
   tagline:
-    "Software Engineer with 3.5+ years building backend systems and distributed architecture — APIs, data layers, and the infrastructure underneath products people actually rely on.",
-  location: "Greater Noida, India",
+    "Software Engineer with 3.2+ years building backend systems and distributed architecture — APIs, data layers, and the infrastructure underneath products people actually rely on.",
+  location: "Gurgaon, India",
   email: "amitrawat9810@gmail.com",
   phone: "+91 82870 52861",
   github: "https://github.com/asr9810",
@@ -127,7 +127,7 @@ export const experience = [
   {
     company: "Integral Infogen Technologies (IITPL)",
     role: "Software Engineer",
-    period: "Jan 2023 — Present",
+    period: "Aug 2023 — Present",
     summary:
       "Architecting backend services and REST APIs for Eddal, a production ERP and dealer management platform for Escorts Kubota's 6,000+ dealer network.",
   },
